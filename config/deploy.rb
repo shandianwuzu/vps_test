@@ -1,6 +1,6 @@
 # config valid only for current version of Capistrano
 lock '3.4.0'
-
+ 
 set :application, 'vps_test'
 set :repo_url, 'https://github.com/shandianwuzu/vps_test.git'
 
